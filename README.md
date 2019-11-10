@@ -1,7 +1,7 @@
 # OOP_JavaProject
 Game introduction Program
 Code ที่สำคัญของโปรแกรม
-1. ทางเลือกของ checkbox ให้ผู้ใช้ไปหน้าของแนวเกมที่เลือกใน chekbox
+1. ทางเลือกของ checkbox ให้ผู้ใช้ไปหน้าของแนวเกมที่เลือกใน checkbox
 
 ![read02](https://user-images.githubusercontent.com/48202849/68536741-5682bc00-038a-11ea-8e63-325b1c36ec4b.PNG)
 
